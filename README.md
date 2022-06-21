@@ -5,8 +5,7 @@ The entire over-arching goal of this project, was to analyze stock data for the 
 ## Results: 
 ### The Code:
 To begin, I started by adding the stater code to my stock analysis VBA document, then followed each prompt as seen below to format the improved code.
- '1a) Create a ticker Index
-        tickerIndex = 0
+
 
     '1b) Create three output arrays
         Dim tickerVolumes(12) As Long

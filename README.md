@@ -1,5 +1,5 @@
 # Stock-Analysis
-## Prefeorming a detailed analysis on stock data to help determine the total daily volume and returns
+## Preforming a detailed analysis on stock data to help determine the total daily volume and returns
 ## Overview of Project: 
 The entire over-arching goal of this project, was to analyze stock data for the years 2017 and 2018. The goal of this specific challenge however, was to refactor the VBA code to both determine if the stock is worth investing in, and to run more efficiently.
 ## Results: 
